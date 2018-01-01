@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيقي</string>
+    <string name="price" translatable="false">السعر</string>
+    <string name="order" translatable="false">طلب</string>
+    <string name="quantity" translatable="false">الكمية</string>
+    <string name="hallo">haloooooool</string>
+</resources>

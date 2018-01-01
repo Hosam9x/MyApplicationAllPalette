@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="quantity">Quantity</string>
+    <string name="plus_sign" translatable="false">+</string>
+    <string name="minus_sign" translatable="false">-</string>
+    <string name="price">Price</string>
+    <string name="order">order</string>
+    <string name="go">Go</string>
+    <string name="hallo">hallo</string>
+</resources>

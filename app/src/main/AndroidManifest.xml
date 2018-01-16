@@ -17,17 +17,19 @@
         <activity android:name=".gotoabout" />
         <activity android:name=".rules_without_errors_button" />
         <activity android:name=".test_writinig" />
-        <activity android:name=".Main4Activity">
-
-        </activity>
+        <activity android:name=".Main4Activity" />
         <activity android:name=".Main5Activity" />
         <activity android:name=".Main6Activity">
+
+        </activity>
+        <activity android:name=".Main7Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>

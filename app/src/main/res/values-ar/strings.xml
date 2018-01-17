@@ -5,4 +5,5 @@
     <string name="order" translatable="false">طلب</string>
     <string name="quantity" translatable="false">الكمية</string>
     <string name="hallo">haloooooool</string>
+    <string name="go">ذهاب</string>
 </resources>
